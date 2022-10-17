@@ -1,6 +1,6 @@
 ## Sherpa
 
-Sherpa is a tool designed to create guide line layouts similar to the feature in Photoshop.
+Sherpa is a tool for After Effects designed to create guide line layouts similar to the feature in Photoshop.
 
 Users can define a number of equally spaced guide lines or guide lines based on preferred margins.
 
